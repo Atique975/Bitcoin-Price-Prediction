@@ -6,7 +6,7 @@ This dataset contains historical Bitcoin price data, including only the date and
 
 ## Dataset Information
 ### Columns:
-Date - The date of the recorded Bitcoin price (YYYY-MM-DD format).
+Date - The date of the recorded Bitcoin price (MM-DD-YYYY format).
 Price - The closing price of Bitcoin on the corresponding date.
 Format: CSV file with daily price data.
 
